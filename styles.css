@@ -1,0 +1,99 @@
+.introduction{
+    color: white;
+    background-color: rgb(16, 16, 100);
+    font-size: large;
+}
+
+#lorem {
+    color: white;
+    background-color: rgb(200, 20, 20);
+    font-size: medium;
+}
+.form {
+    background-image: url("./assets/governor.jpg");
+  background-size: 200px;
+  background-repeat: no-repeat;
+  background-position: bottom right;
+  background-attachment: scroll;
+}
+.governor{
+    height: 200px;
+    width: 200px;
+}
+
+.osun-state{
+      
+        border-style: solid ;
+      margin: 20px ;
+       padding: 10px;
+      background-color: blue;
+      height: 200px;
+      width: 200px;
+       
+}
+
+.welcomee{
+    text-align: right;
+}
+
+.newosun{
+   text-align: center;
+}
+
+.gov-logo1{
+    height: 100px;
+    width: 100px;
+   
+}
+
+.gov-logo2{
+    height: 100px;
+    width: 100px;
+}
+
+.gov-logo3{
+    height: 100px;
+    width: 100px;
+    background-color: blanchedalmond;
+}
+
+.grp-logo{
+    display: grid;
+}
+
+.grp-logo1{
+    display: flex;
+}
+
+.grp-logo2{
+    
+    background-color: black;
+}
+
+.grp-logo4{
+   display: grid;
+   grid-template-columns: repeat(3, 1fr);
+    background-color: rgb(16, 16, 100);
+}
+
+.form{
+    display: flex;
+    justify-content:flex-start;
+}
+
+.submits{
+    border: black solid 5px;
+    position: static;
+}
+
+.fixed{
+    position: fixed;
+    background-color: red;
+    bottom: 0;
+    right: 30px;
+    margin: 10px;
+    padding: 50px;
+}
+.relative {
+    position: relative;
+}
